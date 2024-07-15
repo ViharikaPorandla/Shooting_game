@@ -1,7 +1,5 @@
 # Shooting_game
 
-Sure! Here is a detailed README file for your shooting game project, complete with emojis:
-
 🎮 Shooting Game
 
 A fun and interactive shooting game built with HTML, CSS, and JavaScript. This project demonstrates the use of these technologies to create a dynamic and engaging web game.
